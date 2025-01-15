@@ -7,7 +7,7 @@ import com.heena.request.CreateRequestRestaurant;
 
 import java.util.List;
 
-public interface RestaurantService {
+public interface  RestaurantService {
 
     public Restaurant createRestaurant(CreateRequestRestaurant req, User user);
 

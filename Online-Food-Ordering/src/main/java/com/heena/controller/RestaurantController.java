@@ -15,7 +15,7 @@ import java.awt.*;
 
 @RestController
 @RequestMapping("api/restaurants")
-public class RestaurantController {
+public class RestaurantController  {
 
     @Autowired
     private RestaurantService restaurantService;

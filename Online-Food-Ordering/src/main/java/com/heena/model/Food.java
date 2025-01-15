@@ -13,7 +13,7 @@ import java.util.List;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-public class Food {
+public class Food  {
 
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)

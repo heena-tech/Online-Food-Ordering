@@ -13,7 +13,7 @@ import java.util.List;
 @AllArgsConstructor
 @NoArgsConstructor
 
-public class CartItem {
+public class CartItem  {
 
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)

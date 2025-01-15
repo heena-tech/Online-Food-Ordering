@@ -2,7 +2,7 @@ package com.heena.service;
 
 import com.heena.model.User;
 
-public interface UserService {
+public interface UserService  {
 
     public User findUserByJwtToken(String jwt) throws Exception;
 

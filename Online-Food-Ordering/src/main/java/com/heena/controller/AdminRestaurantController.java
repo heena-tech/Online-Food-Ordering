@@ -17,7 +17,7 @@ import static org.springframework.data.jpa.domain.AbstractPersistable_.id;
 
 @RestController
 @RequestMapping("/api/admin/restaurants")
-public class AdminRestaurantController {
+public class AdminRestaurantController  {
 
     @Autowired
     private RestaurantService restaurantService;

@@ -3,7 +3,7 @@ package com.heena.model;
 import lombok.Data;
 
 @Data
-public class ContactInformation {
+public class ContactInformation  {
 
     private String email;
     private String mobile;

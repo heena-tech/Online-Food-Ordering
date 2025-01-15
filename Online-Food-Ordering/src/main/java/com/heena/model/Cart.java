@@ -12,7 +12,7 @@ import java.util.List;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-public class Cart {
+public class Cart  {
 
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)

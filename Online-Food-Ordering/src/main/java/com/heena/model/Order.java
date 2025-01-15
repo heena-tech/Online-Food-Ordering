@@ -15,7 +15,7 @@ import java.util.List;
 @NoArgsConstructor
 @AllArgsConstructor
 @Table(name= "orders")
-public class Order {
+public class Order  {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private  Long id;

@@ -14,7 +14,7 @@ import java.util.List;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-public class Restaurant {
+public class Restaurant  {
 
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)

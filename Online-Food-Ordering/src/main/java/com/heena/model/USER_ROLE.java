@@ -1,6 +1,6 @@
 package com.heena.model;
 
-public enum USER_ROLE {
+public enum USER_ROLE  {
 
     ROLE_CUSTOMER,
     ROLE_RESTAURANT_OWNER,
